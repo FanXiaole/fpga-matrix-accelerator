@@ -7,9 +7,9 @@ A high-performance hardware-based matrix engine designed on FPGA, featuring low-
 
 | Member | Department | Core Responsibility |
 | :--- | :--- | :--- |
-| **Jin Yihan** | School of AI | Top-level Architecture, Input Logic & Project Documentation |
+| **Jin Yihan** | **Dept. of CS** | Top-level Architecture, Input Logic & Project Documentation |
 | **Yang Weiming** | School of AI | Data Storage, Generation & UART Communication Protocols |
-| **Justin Fan** | **Dept. of CS** | **ALU, Display Engine & Convolution Hardware Acceleration** |
+| **Justin Fan** | School of AI | **ALU, Display Engine & Convolution Hardware Acceleration** |
 
 ## ✨ Key Features
 * **Core Ops**: Transpose, Addition, Scalar Mul, Matrix Multiplication.
